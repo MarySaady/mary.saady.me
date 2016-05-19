@@ -1,0 +1,104 @@
+/************************************
+GENERAL
+*****************************/
+
+p.lineup-fix {
+  padding-left: 5px;
+}
+
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+a {
+  text-decoration: none;
+}
+
+img{
+  max-width: 100%;
+}
+
+body {
+  color: #595959;
+}
+
+/*******************************
+HEADER
+*******************************/
+
+header {
+  float: left;
+  margin: 0 0 30px 0;
+  padding: 5px 0 0 0;
+  width: 100%
+}
+
+h1 {
+  color:#33cccc;
+  font-family: 'Montserrat', sans-serif;
+  /*font-weight: bold;*/
+  /*font-style: italic;*/
+}
+
+h2 {
+  color: #248f8f;
+  font-family: 'Montserrat' , sans-serif;
+  font-size: 1.5em;
+  margin: -5px 0 0;
+  font-weight: normal;
+}
+
+h3 {
+  color: #4d4d4d;
+  font-family: 'Raleway' , sans-serif;
+  font-size: 1.0em;
+  margin: 0 0 1em 0;
+}
+
+img {
+    max-width: 100%
+    width: 100%
+}
+
+/*****************************************
+NAVIGATION
+*****************************************/
+
+nav {
+  text-align: center;
+  padding: 10px 0 0;
+  margin: 20px 0 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  font-weight: 700;
+  padding: 30px 10px;
+}
+
+/***************************************
+FOOTER
+***************************************/
+
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  clear: both;
+  padding-top: 50px;
+}
+
+.contact-info li.phone a{
+  background-image: url()
+
+}
